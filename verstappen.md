@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /verstappen.md/
+---
 # 🏎️ Max Verstappen (Q2239218)
 
 ![Max Verstappen](assets/images/verstappen.jpg)
