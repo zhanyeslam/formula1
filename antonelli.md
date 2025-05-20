@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "Kimi Antonelli"
-permalink: /antonelli/
 ---
 
 
