@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /leclerc.md/
+---
 # 🏎️ Charles Leclerc (Q17541912)
 
 ![Charles Leclerc](assets/images/leclerc.jpg)
