@@ -1,6 +1,9 @@
 ---
+layout: default
+title: "Kimi Antonelli"
 permalink: /antonelli.md/
 ---
+
 
 # 🏎️ Kimi Antonelli (Q112073790)
 
