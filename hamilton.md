@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /hamilton.md/
+---
 # 🏎️ Lewis Hamilton (Q9673)
 
 ![Lewis Hamilton](assets/images/hamilton.jpg)
