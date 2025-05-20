@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# 🏎️ Kimi Antonelli (Q112073790)
+## 🏎️ Kimi Antonelli (Q112073790)
 
 ![Kimi Antonelli](assets/images/antonelli.jpg)
 
