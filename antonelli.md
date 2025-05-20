@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /antonelli/
+permalink: /antonelli.md/
 ---
 ## 🏎️ Kimi Antonelli (Q112073790)
 
