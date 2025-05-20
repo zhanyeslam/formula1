@@ -34,7 +34,7 @@ The enriched triples were verified and, when needed, manually corrected.
       </a>
     </td>
     <td align="center">
-      <a href="antonelli">
+      <a href="antonelli.md">
         <img src="assets/images/antonelli.jpg" width="150"/><br/>
         <strong>Kimi Antonelli</strong>
       </a>
