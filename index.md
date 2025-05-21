@@ -10,10 +10,9 @@ The enriched triples were verified and, when needed, manually corrected.
 
 ## 👥 Team Members
 
-- **Zhan Yeslam** —  
-- **Akbar Ibragimov** —  
-- **Nozimakhon Sattorova** — 
-- **[Fourth member – TBD]**
+- **Zhan Yeslam** 
+- **Akbar Ibragimov**  
+- **Nozimakhon Sattorova** 
 
 ---
 
@@ -23,25 +22,25 @@ The enriched triples were verified and, when needed, manually corrected.
   <tr>
     <td align="center">
       <a href="hamilton.md">
-        <img src="assets/images/hamilton.jpg" width="150"/><br/>
+        <img src="assets/images/hamilton.jpg" width="300"/><br/>
         <strong>Lewis Hamilton</strong>
       </a>
     </td>
     <td align="center">
       <a href="leclerc.md">
-        <img src="assets/images/leclerc.jpg" width="150"/><br/>
+        <img src="assets/images/leclerc.jpg" width="300"/><br/>
         <strong>Charles Leclerc</strong>
       </a>
     </td>
     <td align="center">
       <a href="antonelli.md">
-        <img src="assets/images/antonelli.jpg" width="150"/><br/>
+        <img src="assets/images/antonelli.jpg" width="300"/><br/>
         <strong>Kimi Antonelli</strong>
       </a>
     </td>
     <td align="center">
       <a href="verstappen.md">
-        <img src="assets/images/verstappen.jpg" width="150"/><br/>
+        <img src="assets/images/verstappen.jpg" width="300"/><br/>
         <strong>Max Verstappen</strong>
       </a>
     </td>
