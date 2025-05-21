@@ -31,7 +31,7 @@ WHERE {
 LIMIT 10
 ```
 
-📎 [Result](https://w.wiki/EF8Q)
+📎 [Results](https://w.wiki/EF8Q)
 
 ---
 
@@ -57,7 +57,7 @@ WHERE {
 ORDER BY ?driverLabel
 ```
 
-📎 [Result](https://w.wiki/EEnK)
+📎 [Results](https://w.wiki/EEnK)
 
 ---
 
@@ -77,7 +77,7 @@ WHERE {
 ORDER BY ?driverLabel
 ```
 
-📎 [Result](https://w.wiki/EEpB)
+📎 [Results](https://w.wiki/EEpB)
 
 ---
 
@@ -97,7 +97,7 @@ WHERE {
 ORDER BY ?driverLabel
 ```
 
-📎 [Result](https://w.wiki/EF8b)
+📎 [Results](https://w.wiki/EF8b)
 
 ---
 
