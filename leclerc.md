@@ -32,7 +32,8 @@ WHERE {
 ORDER BY ?driverLabel
 ```
 
-📎 **Result**: Charles Leclerc has **no recorded partner** in Wikidata, while Hamilton and Verstappen do. Antonelli has no data (likely due to age).
+📎 [Results](https://w.wiki/EFHz)
+Charles Leclerc has **no recorded partner** in Wikidata, while Hamilton and Verstappen do. Antonelli has no data (likely due to age).
 
 ---
 
