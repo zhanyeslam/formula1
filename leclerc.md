@@ -41,6 +41,8 @@ Charles Leclerc has **no recorded partner** in Wikidata, while Hamilton and Vers
 
 According to multiple sources, **Charles Leclerc has been in a relationship with Alexandra Saint Mleux since 2023**, yet this information is missing from Wikidata.
 
+![Alexandra Saint Mleux](assets/images/mleux.jpg)
+
 ---
 
 ## 🤖 Few-Shot Prompting
