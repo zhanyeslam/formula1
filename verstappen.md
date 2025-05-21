@@ -4,7 +4,7 @@ permalink: /verstappen.md/
 ---
 # 🏎️ Max Verstappen (Q2239218)
 
-![Max Verstappen](assets/images/verstappen.jpg)
+![Max Verstappen](assets/images/verstappen2.jpg)
 
 ## 👤 Who is Max Verstappen?
 
