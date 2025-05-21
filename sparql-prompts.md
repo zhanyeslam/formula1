@@ -107,33 +107,61 @@ ORDER BY ?driverLabel
 
 Prompt: “What Formula 1 team is Lewis Hamilton racing for in the 2025 season?”
 
-LLM Responses:
-- Gemini: ✅ Ferrari
-- GPT-4: ✅ Ferrari, detailed
+🎯 Purpose:
+This was a direct factual query without any examples or step-by-step reasoning.
+It was used because Hamilton is a high-profile driver and the answer is widely known in the media.
 
-Conclusion: Worked well due to simplicity and visibility.
+🤖 LLM Responses:
+Gemini: "Lewis Hamilton is racing for Ferrari in the 2025 Formula 1 season. He made a high-profile move from Mercedes to Ferrari, and his contract extends at least until the end of 2026."
+✅ Correct, brief, fact-based.
+
+GPT-4: "In the 2025 Formula 1 season, Lewis Hamilton is racing for Scuderia Ferrari. He joined the team after leaving Mercedes at the end of the 2024 season, marking his first time driving for a non-Mercedes-powered team. Hamilton replaced Carlos Sainz and now partners with Charles Leclerc at Ferrari."
+✅ Also correct, but more detailed and contextual.
+
+Conclusion: This zero-shot prompt worked well because the fact was simple and well-known.
 
 ---
 
 ### 🔹 Few-shot Prompt: Kimi Antonelli 2025
 
-Prompt: Driver: Hamilton → Ferrari, Verstappen → Red Bull, Antonelli → ?
+Prompt:
+Task: Identify the current Formula 1 team of the driver.
+Driver: Lewis Hamilton → Scuderia Ferrari
+Driver: Max Verstappen → Red Bull Racing
+Driver: Kimi Antonelli → ?
 
-LLM Responses:
-- Gemini: ✅ Mercedes
-- GPT-4: ✅ Mercedes
+🎯 Purpose:
+This technique was used because Antonelli is a new driver and may not be strongly represented in training data.
+Giving clear examples of similar drivers helped the model infer the correct answer by analogy.
 
-Conclusion: Few-shot format improved accuracy for a newer name.
+🤖 LLM Responses:
+Gemini: "Kimi Antonelli → Mercedes"
+✅ Correct.
+
+GPT-4: "Kimi Antonelli → Mercedes"
+✅ Correct.
+
+🔍 Comparison:
+Both Gemini and GPT-4 answered the same and correctly.
+
+Conclusion: Few-shot prompting clearly improved accuracy for a less famous figure.
 
 ---
 
 ### 🔹 Chain-of-Thought Prompt: Max Verstappen 2024 Champion
 
-Prompt: “Who won the F1 Championship in 2024? Let’s think step by step.”
+Prompt: “Who won the Formula one World Championship in 2024? Let’s think step by step.”
 
-LLM Responses:
-- Gemini: ✅ Verstappen, Las Vegas GP
-- GPT-4: ✅ Verstappen with full season reasoning
+🎯 Purpose:
+This prompt was designed to encourage the model to "think aloud" by reasoning step-by-step.
+It’s useful when the fact is recent, complex, or could involve multiple stages/events.
+
+🤖 LLM Responses:
+Gemini: "Max Verstappen won the Formula 1 World Championship in 2024. He secured his fourth consecutive title with Red Bull Racing at the Las Vegas Grand Prix."
+✅ Concise and correct.
+
+GPT-4: Provided a detailed breakdown: how the season unfolded, Verstappen’s performance, and the final clinch in Las Vegas.
+✅ Correct with full reasoning.
 
 Conclusion: CoT was ideal for recent, multi-step knowledge.
 
@@ -141,13 +169,42 @@ Conclusion: CoT was ideal for recent, multi-step knowledge.
 
 ### 🔹 Few-shot Prompt: Charles Leclerc’s Partner
 
-Prompt: Lewis → Nicole, Verstappen → Kelly, Leclerc → ?
+Prompt:
+Task: Provide relationship information for a Formula 1 driver.
+Driver: Lewis Hamilton
+Partner: Nicole Scherzinger
+Type: Unmarried partner
+Background: Singer
+Since: 2007
+Driver: Max Verstappen
+Partner: Kelly Piquet
+Type: Unmarried partner
+Background: Model
+Since: 2021
+Driver: Charles Leclerc
+Partner: ...
 
-LLM Responses:
-- Gemini: ✅ Alexandra Saint Mleux, since 2023
-- GPT-4: ✅ Same, with role as art student/influencer
+🎯 Purpose:
+Used to guide the model toward a structured, human relationship description with expected fields.
+Especially important for non-explicit, softer data (e.g., relationships).
 
-Conclusion: Structure guided correct output.
+🤖 LLM Responses:
+Gemini: "Partner: Alexandra Saint Mleux
+Type: Unmarried partner
+Background: Student/Social Media Personality (often described as an art student)
+Since: 2023"
+✅ Clear, accurate, formatted.
+
+GPT-4: "Partner: Alexandra Saint Mleux
+Type: Unmarried partner
+Background: Art history student / Influencer
+Since: 2023"
+✅ Same content.
+
+🔍 Comparison:
+Both GPT-4 and Gemini gave information about the partner of Charles Leclerc with given structure. 
+
+Conclusion: Few-shot structure helped both LLMs output the correct partner, background, and year.
 
 ---
 
@@ -156,4 +213,4 @@ Conclusion: Structure guided correct output.
 This section showcases how **SPARQL** and **LLMs** can work together to explore and enhance a Knowledge Graph.  
 SPARQL provided precision and control, while LLMs offered flexibility and coverage.  
 By combining both, we were able to identify missing facts and generate correct, validated RDF triples.  
-Every technique—from `FILTER` to `CHAIN-OF-THOUGHT`—played a unique role in improving the semantic web.
+Every technique—from `ZERO-SHOT` to `CHAIN-OF-THOUGHT`—played a unique role in improving the semantic web.
