@@ -107,11 +107,9 @@ Additionally, a more detailed RDF using qualifiers:
 wd:Q2239218 p:P2522 [
   ps:P2522 wd:Q113628886 ;
   pq:P585 "2024-11-24"^^xsd:date ;
-  pq:P1344 wd:Q113980138  # Las Vegas Grand Prix
+  pq:P1344 wd:Q111443584  # Las Vegas Grand Prix
 ] .
 ```
-
-![Correct RDF Screenshot](assets/images/rdf_final_correct3.png)
 
 ---
 
