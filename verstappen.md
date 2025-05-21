@@ -34,7 +34,7 @@ WHERE {
 ORDER BY ?driverLabel
 ```
 
-📎 **Result**: [https://w.wiki/EEpB](https://w.wiki/EEpB)
+📎 [Results](https://w.wiki/EEpB)
 
 ---
 
