@@ -92,23 +92,6 @@ Both models produced RDF with incorrect Q-IDs or structure:
 
 After verifying and correcting the Q-IDs and structure, we manually constructed the **correct triple**:
 
-```turtle
-@prefix wd: <http://www.wikidata.org/entity/> .
-@prefix p: <http://www.wikidata.org/prop/> .
-@prefix ps: <http://www.wikidata.org/prop/statement/> .
-@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-wd:Q9673 p:P54 [
-  ps:P54 wd:Q10227 ;
-  pq:P580 "2025-01-01T00:00:00Z"^^xsd:dateTime ;
-  pq:P582 "2026-12-31T23:59:59Z"^^xsd:dateTime ;
-  pq:P641 wd:Q1142852
-] .
-
-wd:Q10227 wdt:P31 wd:Q10842265 .  # Ferrari = instance of Formula One team
-```
-
 ![Correct RDF Screenshot](assets/images/rdf_final_correct.png)
 
 ---
