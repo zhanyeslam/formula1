@@ -22,25 +22,25 @@ The enriched triples were verified and, when needed, manually corrected.
   <tr>
     <td align="center">
       <a href="hamilton.md">
-        <img src="assets/images/hamilton.jpg" width="450"/><br/>
+        <img src="assets/images/hamilton.jpg" width="200"/><br/>
         <strong>Lewis Hamilton</strong>
       </a>
     </td>
     <td align="center">
       <a href="leclerc.md">
-        <img src="assets/images/leclerc.jpg" width="450"/><br/>
+        <img src="assets/images/leclerc.jpg" width="200"/><br/>
         <strong>Charles Leclerc</strong>
       </a>
     </td>
     <td align="center">
       <a href="antonelli.md">
-        <img src="assets/images/antonelli.jpg" width="450"/><br/>
+        <img src="assets/images/antonelli.jpg" width="200"/><br/>
         <strong>Kimi Antonelli</strong>
       </a>
     </td>
     <td align="center">
       <a href="verstappen.md">
-        <img src="assets/images/verstappen.jpg" width="450"/><br/>
+        <img src="assets/images/verstappen.jpg" width="200"/><br/>
         <strong>Max Verstappen</strong>
       </a>
     </td>
