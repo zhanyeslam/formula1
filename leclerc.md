@@ -78,21 +78,6 @@ Both models made **mistakes with Q-IDs**, though ChatGPT included useful tempora
 
 We corrected the RDF using valid Wikidata identifiers:
 
-```turtle
-@prefix wd: <http://www.wikidata.org/entity/> .
-@prefix p: <http://www.wikidata.org/prop/> .
-@prefix ps: <http://www.wikidata.org/prop/statement/> .
-@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-# Charles Leclerc is in an unmarried relationship with Alexandra Saint Mleux since 2023
-wd:Q17541912 p:P451 [
-  ps:P451 wd:Q134520230 ;
-  pq:P580 "2023-01-01"^^xsd:date ;
-  pq:P3831 wd:Q18609430
-] .
-```
-
 ![Correct RDF Screenshot](assets/images/rdf_final_correct4.png)
 
 ---
