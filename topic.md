@@ -48,8 +48,8 @@ Our project uses Wikidata as the **central hub** for verifying and enriching dri
 We focused on 4 drivers:
 
 - **Lewis Hamilton** (Q9673) – 7-time world champion, recently moved to Ferrari
-- **Charles Leclerc** (Q17541912) – rising star and Ferrari’s current lead driver
-- **Kimi Antonelli** (Q112073790) – a young Mercedes talent expected to debut in F1
+- **Charles Leclerc** (Q17541912) – vice Champion 2022 and Ferrari’s current lead driver
+- **Kimi Antonelli** (Q112073790) – a young 18 years-old Mercedes talent from Bologna
 - **Max Verstappen** (Q2239218) – reigning champion with Red Bull Racing
 
 This mix allowed us to work across:
@@ -65,7 +65,7 @@ Using SPARQL, we uncovered several **important gaps** in Wikidata:
 
 - ❌ Hamilton's confirmed transfer to Ferrari in 2025 was **not listed**
 - ❌ Verstappen’s win of the 2024 World Championship was **missing**
-- ❌ Antonelli had **no team** despite media confirmation
+- ❌ Antonelli had **no team** despite media confirmation, and already secured 1st place in Miami Grand Prix Sprint Qualifying for Mercedes
 - ❌ Leclerc’s relationship was **not represented**, though publicly known
 
 These cases formed the **core of our enrichment efforts**.
