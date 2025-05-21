@@ -4,7 +4,7 @@ permalink: /leclerc.md/
 ---
 # 🏎️ Charles Leclerc (Q17541912)
 
-![Charles Leclerc](assets/images/leclerc.jpg)
+![Charles Leclerc](assets/images/leclerc2.jpg)
 
 ## 👤 Who is Charles Leclerc?
 
