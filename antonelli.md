@@ -4,7 +4,7 @@ permalink: /antonelli.md/
 ---
 ## 🏎️ Kimi Antonelli (Q112073790)
 
-![Kimi Antonelli](assets/images/antonelli.jpg)
+![Kimi Antonelli](assets/images/antonelli2.jpg)
 
 ## 👤 Who is Kimi Antonelli?
 
