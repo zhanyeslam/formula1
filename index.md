@@ -55,5 +55,4 @@ The enriched triples were verified and, when needed, manually corrected.
 - [Topic](topic.md)
 - [Methodology](methodology.md)
 - [SPARQL & Prompts](sparql-prompts.md)
-- [LLM Comparison](llm-comparison.md)
 - [Challenges](challenges.md)
