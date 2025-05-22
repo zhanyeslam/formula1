@@ -1,11 +1,12 @@
 # 🏁 Formula 1 Drivers in Wikidata: Enrichment with LLMs
 
-Welcome to our KE4H project where we explore **Formula 1 drivers** using the **Wikidata Knowledge Graph**.  
-While Wikidata provides rich semantic data, we discovered that important information is **missing or incomplete** for many drivers.
+Welcome to our KE4H project, where we explore the world of Formula 1 drivers through the lens of the Wikidata Knowledge Graph.
 
-To address this, we used **Large Language Models (LLMs)** such as **ChatGPT** and **Gemini** to retrieve missing facts and generate **RDF triples** based on the **Wikidata ontology**.  
-The enriched triples were verified and, when needed, manually corrected.
+Although Wikidata is one of the most comprehensive open knowledge bases, we discovered that many facts about even the most prominent F1 drivers are missing, outdated, or incomplete. From recent championship wins to team transfers and personal background details, key pieces of structured information were often absent.
 
+To address these semantic gaps, we employed Large Language Models (LLMs) — including ChatGPT and Gemini — to retrieve and generate missing knowledge. We asked the models to produce RDF triples using the Wikidata ontology, and then manually verified and corrected the outputs to ensure precision and consistency.
+
+This project demonstrates how SPARQL queries, AI-generated content, and human validation can work together to improve the quality of open linked data — one triple at a time.
 ---
 
 ## 👥 Team Members
