@@ -1,4 +1,4 @@
-# Sections
+# 📑 Sections
 - [Topic](topic.md)
 - [Methodology](methodology.md)
 - [SPARQL & Prompts](sparql-prompts.md)
