@@ -1,5 +1,3 @@
 title: Formula 1 Enrichment Project
 description: KE4H – Wikidata + LLMs
-theme: jekyll-theme-architect
-include:
-  - assets/css/custom.css
+theme: jekyll-theme-cayman
