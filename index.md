@@ -6,7 +6,9 @@ Although Wikidata is one of the most comprehensive open knowledge bases, we disc
 
 To address these semantic gaps, we employed Large Language Models (LLMs) — including ChatGPT and Gemini — to retrieve and generate missing knowledge. We asked the models to produce RDF triples using the Wikidata ontology, and then manually verified and corrected the outputs to ensure precision and consistency.
 
-This project demonstrates how SPARQL queries, AI-generated content, and human validation can work together to improve the quality of open linked data — one triple at a time.
+> This project demonstrates how **SPARQL queries**, **AI-generated content**, and **human validation**  
+> can work together to improve the quality of open linked data — **one triple at a time.**
+
 ---
 
 ## 👥 Team Members
