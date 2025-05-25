@@ -1,12 +1,10 @@
-# 🏁 Formula 1 Drivers in Wikidata: Enrichment with LLMs
-
-## 📂 Project Sections
-
 - [Topic](topic.md)
 - [Methodology](methodology.md)
 - [SPARQL & Prompts](sparql-prompts.md)
 - [Challenges](challenges.md)
 - [Final Report](report.md)
+- 
+# 🏁 Formula 1 Drivers in Wikidata: Enrichment with LLMs
 
 Welcome to our KE4H project, where we explore the world of Formula 1 drivers through the lens of the Wikidata Knowledge Graph.
 
