@@ -1,3 +1,8 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+@import url('/formula1/assets/css/custom.css');
+</style>
+
 # 🏁 Formula 1 Drivers in Wikidata: Enrichment with LLMs
 
 Welcome to our KE4H project, where we explore the world of Formula 1 drivers through the lens of the Wikidata Knowledge Graph.
