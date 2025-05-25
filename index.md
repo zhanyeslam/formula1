@@ -1,5 +1,13 @@
 # 🏁 Formula 1 Drivers in Wikidata: Enrichment with LLMs
 
+## 📂 Project Sections
+
+- [Topic](topic.md)
+- [Methodology](methodology.md)
+- [SPARQL & Prompts](sparql-prompts.md)
+- [Challenges](challenges.md)
+- [Final Report](report.md)
+
 Welcome to our KE4H project, where we explore the world of Formula 1 drivers through the lens of the Wikidata Knowledge Graph.
 
 Although Wikidata is one of the most comprehensive open knowledge bases, we discovered that many facts about even the most prominent F1 drivers are missing, outdated, or incomplete. From recent championship wins to team transfers and personal background details, key pieces of structured information were often absent.
@@ -51,10 +59,3 @@ To address these semantic gaps, we employed Large Language Models (LLMs) — inc
 </table>
 
 ---
-
-## 📂 Project Sections
-
-- [Topic](topic.md)
-- [Methodology](methodology.md)
-- [SPARQL & Prompts](sparql-prompts.md)
-- [Challenges](challenges.md)
