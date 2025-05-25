@@ -23,25 +23,25 @@ This project demonstrates how SPARQL queries, AI-generated content, and human va
   <tr>
     <td align="center">
       <a href="hamilton.md">
-        <img src="assets/images/hamilton.jpg" width="100"/><br/>
+        <img src="assets/images/hamilton.jpg" width="190"/><br/>
         <strong>Lewis Hamilton</strong>
       </a>
     </td>
     <td align="center">
       <a href="leclerc.md">
-        <img src="assets/images/leclerc.jpg" width="100"/><br/>
+        <img src="assets/images/leclerc.jpg" width="190"/><br/>
         <strong>Charles Leclerc</strong>
       </a>
     </td>
     <td align="center">
       <a href="antonelli.md">
-        <img src="assets/images/antonelli.jpg" width="100"/><br/>
+        <img src="assets/images/antonelli.jpg" width="190"/><br/>
         <strong>Kimi Antonelli</strong>
       </a>
     </td>
     <td align="center">
       <a href="verstappen.md">
-        <img src="assets/images/verstappen.jpg" width="100"/><br/>
+        <img src="assets/images/verstappen.jpg" width="190"/><br/>
         <strong>Max Verstappen</strong>
       </a>
     </td>
