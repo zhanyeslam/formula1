@@ -82,3 +82,6 @@ Our goal is to **bridge gaps in semantic knowledge** by combining:
 - A clear, open-access **GitHub Pages website**
 
 This project aims to demonstrate how **automated tools and human validation** can work together to improve the quality of large-scale knowledge graphs.
+
+<p><a href="/formula1/">← Back to main page</a></p>
+
