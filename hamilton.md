@@ -102,3 +102,6 @@ Using a simple SPARQL `UNION` query, we discovered that **an important fact abou
 LLMs helped us retrieve the knowledge, but their RDF outputs required **manual corrections**.
 
 This case illustrates both the **potential and limitations of LLMs** in knowledge graph enrichment.
+
+<p><a href="/formula1/">← Back to main page</a></p>
+
