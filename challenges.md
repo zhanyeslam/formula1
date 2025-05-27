@@ -48,3 +48,6 @@ We explored GitHub Pages documentation and tested various layouts until we found
 | Website Development              | No prior experience with Jekyll or GitHub Pages               | Learned and applied best practices for structure |
 
 Through collaboration, trial-and-error, and self-learning, we turned these challenges into opportunities for growth and ultimately delivered a reliable, well-integrated semantic web project.
+
+<p><a href="/formula1/">← Back to main page</a></p>
+
