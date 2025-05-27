@@ -93,4 +93,3 @@ We successfully enriched Wikidata-relevant facts for all 4 drivers, meeting all 
 Each case study followed a clear path: **SPARQL → Gap → LLMs → RDF → Validation** — providing both **automation** and **precision** in knowledge enrichment.
 
 <p><a href="/formula1/">← Back to main page</a></p>
-
