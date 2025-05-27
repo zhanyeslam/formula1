@@ -92,3 +92,4 @@ We identified the gap using `OPTIONAL`, `ORDER BY`, and `SERVICE` in SPARQL.
 LLMs were helpful for retrieving facts, but **manual RDF editing ensured correctness and consistency**.
 
 <p><a href="/formula1/">← Back to main page</a></p>
+
