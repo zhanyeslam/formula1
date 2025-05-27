@@ -94,3 +94,6 @@ We manually corrected the RDF using verified Q-IDs:
 
 Although Kimi Antonelli is confirmed to be racing for Mercedes in 2025, **Wikidata still lacks this information**.  
 LLMs were helpful in retrieving factual knowledge, but **manual RDF editing was essential** to produce semantically correct and verifiable triples.
+
+<p><a href="/formula1/">← Back to main page</a></p>
+
