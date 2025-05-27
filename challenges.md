@@ -50,4 +50,3 @@ We explored GitHub Pages documentation and tested various layouts until we found
 Through collaboration, trial-and-error, and self-learning, we turned these challenges into opportunities for growth and ultimately delivered a reliable, well-integrated semantic web project.
 
 <p><a href="/formula1/">← Back to main page</a></p>
-
