@@ -28,3 +28,4 @@ We then formatted each enriched fact as an RDF triple consistent with Wikidata o
 The project demonstrates how **automated tools and human curation can work together** to support knowledge enrichment on open platforms like Wikidata.  
 We have published our full analysis, case studies, and RDF graphs on this website.
 
+<p><a href="/formula1/">← Back to main page</a></p>
