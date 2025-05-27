@@ -120,3 +120,6 @@ Using `VALUES`, `ORDER BY`, and `SERVICE` keywords in SPARQL, we identified the 
 With **Chain-of-Thought prompting**, we extracted correct facts from LLMs, though **RDF still required manual correction**.
 
 This demonstrates that **LLMs can aid enrichment**, but **human validation remains crucial**.
+
+<p><a href="/formula1/">← Back to main page</a></p>
+
