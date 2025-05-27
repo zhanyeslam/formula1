@@ -90,3 +90,6 @@ We corrected the RDF using valid Wikidata identifiers:
 This case highlights how **personal relationship data** can be overlooked even for public figures.  
 We identified the gap using `OPTIONAL`, `ORDER BY`, and `SERVICE` in SPARQL.  
 LLMs were helpful for retrieving facts, but **manual RDF editing ensured correctness and consistency**.
+
+<p><a href="/formula1/">← Back to main page</a></p>
+
