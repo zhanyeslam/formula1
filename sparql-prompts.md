@@ -214,3 +214,6 @@ This section showcases how **SPARQL** and **LLMs** can work together to explore 
 SPARQL provided precision and control, while LLMs offered flexibility and coverage.  
 By combining both, we were able to identify missing facts and generate correct, validated RDF triples.  
 Every technique—from `ZERO-SHOT` to `CHAIN-OF-THOUGHT`—played a unique role in improving the semantic web.
+
+<p><a href="/formula1/">← Back to main page</a></p>
+
